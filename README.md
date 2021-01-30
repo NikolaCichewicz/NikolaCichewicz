@@ -7,8 +7,7 @@
 - 💬 Contact me if you have some questions!
 
 <br />
-<br />
-<br />
+
 
 #### 📫 Contact:
 <br />

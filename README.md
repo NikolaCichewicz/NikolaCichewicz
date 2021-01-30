@@ -17,7 +17,7 @@
 
 ---
 
-#### 🚀 Skills
+#### 🚀 Skills:
 <br />
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,7 +31,7 @@
 
 ---
 
-#### 💻 I'm currently in the process of learning
+#### 💻 I'm currently in the process of learning:
 <br />
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,7 +40,7 @@
 
 ---
 
-#### 📈 Stats
+#### 📈 Stats:
 <br />
 
 

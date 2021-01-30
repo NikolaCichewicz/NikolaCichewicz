@@ -6,9 +6,12 @@
 - 📖 Learning Full Stack Development.
 - 💬 Contact me if you have some questions!
 
----
+<br />
+<br />
+<br />
 
 #### 📫 Contact:
+<br />
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](n.n.cichewicz@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/n.n.cichewicz/) 
@@ -16,6 +19,7 @@
 ---
 
 #### 🚀 Skills
+<br />
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,6 +33,7 @@
 ---
 
 #### 💻 I'm currently in the process of learning
+<br />
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,7 +42,13 @@
 ---
 
 #### 📈 Stats
+<br />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaCichewicz&&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+<br />
+
 
 <p align="center" style="margin-top: 20px;">👇 My Portfolio 👇</p>

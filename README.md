@@ -36,6 +36,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikigal&hide=css,html&theme=radical" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaCichewicz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center" style="margin-top: 20px;">👇 My Portfolio 👇</p>

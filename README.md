@@ -36,4 +36,6 @@
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikigal&hide=css,html&theme=radical" />
+
 <p align="center" style="margin-top: 20px;">👇 My Portfolio 👇</p>

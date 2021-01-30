@@ -28,7 +28,7 @@
 
 ---
 
-#### 💻 I'm currently in the process of learning 
+#### 💻 I'm currently in the process of learning
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,6 +36,8 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaCichewicz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#### 📈 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaCichewicz&&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center" style="margin-top: 20px;">👇 My Portfolio 👇</p>
